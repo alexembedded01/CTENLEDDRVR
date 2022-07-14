@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for CTEN_LEDDRVR
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -117,83 +117,83 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CTENLEDDRVR.DRR
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\NC Drill\CTENLEDDRVR.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.EXTREP
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GBL
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GBO
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GBP
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GBS
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GKO
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GM1
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GM13
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GM15
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GPB
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GPT
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GTL
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GTO
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GTP
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.GTS
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CTENLEDDRVR.LDP
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\NC Drill\CTENLEDDRVR.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.REP
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\CTENLEDDRVR.RUL
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CTENLEDDRVR.TXT
+DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\NC Drill\CTENLEDDRVR.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
@@ -211,7 +211,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for CTEN_LEDDRVR
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -786,6 +786,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
