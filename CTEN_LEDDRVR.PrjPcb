@@ -125,80 +125,48 @@ DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\NC Drill\CTENLEDDRVR.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.REP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\Gerber\CTENLEDDRVR.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\CTEN_LEDDRVR Rev_d577ce1\NC Drill\CTENLEDDRVR.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for CTEN_LEDDRVR\Design Rule Check - CTENLEDDRVR.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=Githash
+Value==VersionControl_ProjFolderRevNumber
 
 [Configuration1]
 Name=Sources
